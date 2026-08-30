@@ -1,0 +1,5 @@
+node_modules/
+storage/uploads/*
+storage/reports/*
+!storage/uploads/.gitkeep
+!storage/reports/.gitkeep
